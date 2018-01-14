@@ -3,7 +3,7 @@
 ![ALio boards](img/alio-bundle-2-small.jpg)
 
 ## Board's Rules
-* **Layers**: 2
+* **Layers**: 2 Layers
 * **Min Traces**: 6 mill
 * **Min Clearance**: 6 mill
 * **Min Holes**: 0.3 mm
@@ -16,3 +16,6 @@
 * **Finishing**: HASL-lead (optional)
 * **Solder Mask**: Black (optional)
 * **Silkscreen**: White (optional)
+
+## Orders and contact
+https://www.crowdsupply.com/aerd/alio-proto-board
