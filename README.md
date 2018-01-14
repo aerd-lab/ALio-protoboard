@@ -18,4 +18,4 @@
 * **Silkscreen**: White (optional)
 
 ## Orders and contact
-[Crowd Supply](https://www.crowdsupply.com/aerd/alio-proto-board
+[Crowd Supply](https://www.crowdsupply.com/aerd/alio-proto-board)
