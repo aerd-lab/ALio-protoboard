@@ -52,6 +52,7 @@ ALio MCU Break Out Board is not like ordinary one. It is designed to fit TQFP44,
 ## ToDo
 * Create pad library for eagle.
 * Create USB footprint for eagle.
+* Create 1.1mm pitch dor eagle.
 
 ## License
 The "Creative Commons Attribution-ShareAlike 4.0 International License" [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
