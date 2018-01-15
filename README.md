@@ -21,6 +21,7 @@ Point-to-point wiring is easy with ALio, just a blob of solder does the trick. I
 ![How to](docs/how-to.jpg)
 
 ## ALio MCU Break Out Board
+![MCU BOB](docs/mcu-small.jpg)
 ALio MCU Break Out Board is not like ordinary one. It is designed to fit TQFP44, TQFP32, MLF32, and SOIC IC packages on one side. On the other side, it has a unique pad to fit SMD components for your microcontroller’s minimum requirements, such as capacitors, inductors, crystals, resistors, or LEDs. It also has a mini-USB/micro-USB pad, so you can use it as a stand-alone microcontroller board.
 
 ***
