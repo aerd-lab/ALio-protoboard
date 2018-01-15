@@ -15,6 +15,7 @@ Because every project needs power, ALio provides a 2-in-1 Micro-USB/Mini-USB pad
 ALio comes with a unique and different orientation NON-through-hole BUS pad designed to be used for SMD components or routing circuits as double layer.
 
 Point-to-point wiring is easy with ALio, just a blob of solder does the trick. In addition, the double layer bus lets you route as circuits as if they were on a double-layer PCB, so you can forget about using wire jumpers. This is great for quickly prototyping stackable circuits.
+
 ![How to](docs/how-to.jpg)
 
 ## ALio MCU Break Out Board
@@ -47,6 +48,10 @@ ALio MCU Break Out Board is not like ordinary one. It is designed to fit TQFP44,
 
 ## Orders and Contact
 [Crowd Supply](https://www.crowdsupply.com/aerd/alio-proto-board)
+
+## ToDo
+* Create pad library for eagle.
+* Create USB footprint for eagle.
 
 ## License
 The "Creative Commons Attribution-ShareAlike 4.0 International License" [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
