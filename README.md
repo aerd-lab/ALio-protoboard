@@ -3,7 +3,9 @@
 ![ALio boards](img/alio-bundle-2-small.jpg)
 ALio Proto Board is a prototyping board designed for electronic hobbyists who want to make prototypes containing SMD and through-hole components without using an extra breakout board. ALio is compatible with the traditional proto board while including all the features and benefits of traditional proto board. 
 
-ALio lets you freely attach SMD component in any location or direction, so you can forget about using an extra SMD breakout board; ALio fits almost all SMD components. ALio is great for beginners, since it is easy to solder and allows you to move your bread-board project to a permanent proto board project. 
+ALio lets you freely attach SMD component in any location or direction, so you can forget about using an extra SMD breakout board; ALio fits almost all SMD components. ALio is great for beginners, since it is easy to solder and allows you to move your bread-board project to a permanent proto board project.
+
+![SMD Soldered](docs/alio-comp.jpg)
 
 The Embedded and Arduino compatible versions provide SPI breakout, since SPI is the most common protocol and because wiring SPI directly to a microcontroller can be challenging. 
 
@@ -48,6 +50,7 @@ ALio MCU Break Out Board is not like ordinary one. It is designed to fit TQFP44,
 
 ## Orders and Contact
 [Crowd Supply](https://www.crowdsupply.com/aerd/alio-proto-board)
+[Hackaday](https://hackaday.io/project/28570-alio-new-hardware-prototyping-platform) - Discussion
 
 ## ToDo
 * Create pad library for eagle.
